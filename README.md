@@ -15,7 +15,7 @@ I'm a Web Developer with experience in MERN stack .Currently in 4th Year. I love
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/suvan-rastogi-1a0b2724b/])
 
-![GIF]([https://media.giphy.com/media/26uf6qaxqHpYXgjWU/giphy.gif](https://tenor.com/bn1BX.gif))
+![GIF]([https://tenor.com/bn1BX.gif])
 
 #> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
