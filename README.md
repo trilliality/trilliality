@@ -22,7 +22,6 @@ I'm a Web Developer with experience in MERN stack .Currently in 4th Year. I love
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 
-![GIF]([https://tenor.com/bn1BX.gif])
 
 # > _"Code is like humor. When you have to explain it, it’s bad."_  
 ## – _Cory House_
