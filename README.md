@@ -20,7 +20,7 @@ I'm a Web Developer with experience in MERN stack .Currently in 4th Year. I love
   
 ### Connect with me:
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/suvan-rastogi-1a0b2724b/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -50,7 +50,7 @@ I'm a Web Developer with experience in MERN stack .Currently in 4th Year. I love
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 
-
+<!--
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -97,7 +97,7 @@ I'm a Web Developer with experience in MERN stack .Currently in 4th Year. I love
 </p>
 
 
-
+-->
 
 <!--
 **trilliality/trilliality** is a  repository because its `README.md` (this file) appears on your GitHub profile.
