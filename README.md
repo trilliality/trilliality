@@ -1,5 +1,9 @@
-<div align="centre"># Hi there, I'm Suvan Rastogi! 👋</div>
-<div align="centre"># ✨ **Welcome to the world of Trilliality** ✨</div>
+<div align="center">
+  # Hi there, I'm Suvan Rastogi! 👋
+</div>
+<div align="center">
+  # ✨ **Welcome to the world of Trilliality** ✨
+</div>
 
 ## - 🔭 I’m currently working on next upcoming Project
 ## - 🌱 I’m currently learning BackEnd
