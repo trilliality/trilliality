@@ -1,22 +1,25 @@
 # Hi there, I'm Suvan Rastogi! 👋
 #✨ **Welcome to the world of Trilliality** ✨
-- 🔭 I’m currently working on next upcoming Project
-- 🌱 I’m currently learning BackEnd
+
+##- 🔭 I’m currently working on next upcoming Project
+##- 🌱 I’m currently learning BackEnd
+  
 I'm a Web Developer with experience in MERN stack .Currently in 4th Year. I love working on projects involving Problem Solving and Development.
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=trilliality&show_icons=true&theme=radical)
-### Skills:
+
+# Skills:
 - **Languages:** Python, JavaScript, C++,C
 - **Tools:** HTML, CSS, ReactJS, Tailwind, Bootstrap, NodeJS, Express JS, Postman, Git, Github,Postman, PowerBI.
 - **IT Constructs:** Data Structures and Algorithms, OOPs, DBMS.
 - **Database:** MySQL, SQL, MongoDB.
-### Connect with me:
+  
+# Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/suvan-rastogi-1a0b2724b/])
 
-![GIF](https://media.giphy.com/media/26uf6qaxqHpYXgjWU/giphy.gif)
+![GIF]([https://media.giphy.com/media/26uf6qaxqHpYXgjWU/giphy.gif](https://tenor.com/bn1BX.gif))
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+#> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-### Languages and Tools:
+# Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
