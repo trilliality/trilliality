@@ -1,8 +1,8 @@
 # Hi there, I'm Suvan Rastogi! 👋
-#✨ **Welcome to the world of Trilliality** ✨
+# ✨ **Welcome to the world of Trilliality** ✨
 
-##- 🔭 I’m currently working on next upcoming Project
-##- 🌱 I’m currently learning BackEnd
+## - 🔭 I’m currently working on next upcoming Project
+## - 🌱 I’m currently learning BackEnd
   
 I'm a Web Developer with experience in MERN stack .Currently in 4th Year. I love working on projects involving Problem Solving and Development.
 
@@ -17,7 +17,7 @@ I'm a Web Developer with experience in MERN stack .Currently in 4th Year. I love
 
 ![GIF]([https://tenor.com/bn1BX.gif])
 
-#> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+# > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 # Languages and Tools:
 
